@@ -1,0 +1,6 @@
+The following are the working area in a local repo
+working area
+stagging area
+commit area
+
+thank you.
