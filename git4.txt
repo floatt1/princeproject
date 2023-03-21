@@ -3,6 +3,4 @@ working area
 stagging area
 commit area
 
-thank you
-
-lets now learn about remote repo.
+thank you.
